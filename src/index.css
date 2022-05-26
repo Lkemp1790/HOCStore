@@ -3,12 +3,12 @@
   --main-background-color: #343a50;
   --card-background-color: #51576d;
   --card-background-lighter-color: #7a7f92;
-  --main-text-color: #f7f6f4;
+  --main-text-color: #050505;
   --title-text-color: #3cba8b;
 }
 
 body {
-  background: url('img/background (2).jpg');
+  background: url('img/background (7).jpg');
   background-size: cover;
   /*background: url('img/background.png');
   /background-color: var(--main-background-color);
