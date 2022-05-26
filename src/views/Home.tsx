@@ -624,9 +624,7 @@ const Home = (props: HomeProps) => {
           <li>
           Launch Poker site
           </li>
-          <li>
-          Launch Poker site
-          </li>
+          
         </Des>
         
       </DesContainer>
