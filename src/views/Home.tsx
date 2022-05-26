@@ -616,14 +616,15 @@ const Home = (props: HomeProps) => {
           Open Public mint for 1 SOL.
           </li>
           <li>
+          Launch Poker site
+          </li>
+          <li>
           Launch casino. 100% of casino profits will be sent to staking site.  
           </li>
           <li>
           Run marketing campaigns.
           </li>
-          <li>
-          Launch Poker site
-          </li>
+          
           
         </Des>
         
