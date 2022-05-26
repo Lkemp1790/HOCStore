@@ -67,7 +67,9 @@ const TopNav: React.FC<TopNavProps> = ({
         <li>
           <Link to='/custom-token-marketplace'>Marketplace</Link>
         </li>
-        
+        <li>
+      <a href='https://staking.houseofcardsnft.com/' target='_self'>Staking</a>
+        </li>
         
       </Menu>
       { showCurrencyToggle && <CurrencyToggle />}
